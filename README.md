@@ -13,3 +13,13 @@ At HackYourFuture we help our graduates connect with partner companies and other
 - Your Online Portfolio (Coming soon!)
 
 In this guide we will explain each of them, what you need to keep in mind when building your own, and share with you some online resources to make the job easier.
+
+## Additional reading material
+
+Crafting a good personal brand takes time, effort and self reflection. The more you know about you and about the task at hand, the higher the chances you will end up interviewing with companies quickly. Here are some of the best articles we’ve found in the WWW to get you on subject!
+
+- [10 Soft Skills Every Developer Needs](https://hackernoon.com/10-soft-skills-every-developer-needs-66f0cdcfd3f7)
+
+- [How to Write a Short Professional Bio](https://business.tutsplus.com/tutorials/how-to-write-a-short-bio--cms-30643)
+
+- [Web Developer Resume Examples](https://standardresume.co/examples/web-developer)
