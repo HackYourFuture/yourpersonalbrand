@@ -7,7 +7,7 @@ Technical and soft skills are incredibly important to get and keep a job or inte
 At HackYourFuture we help our graduates connect with partner companies and other businesses for internship opportunities. Still, for you to be invited for an interview, the company needs to be interested in your profile. For that, it is important that you have a slick personal brand.
 
 **Your personal brand is usually comprised of:**
-- Your Curriculum
+- [Your Curriculum](yourcurriculum.md)
 - Your LinkedIn Profile
 - Your GitHub Profile
 - Your Online Portfolio (Coming soon!)
