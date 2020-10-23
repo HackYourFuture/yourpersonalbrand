@@ -1,7 +1,7 @@
-![YourPersonalBrand](assets/yourbrand.jpg)
-
 # Your Personal Brand
 Creating a personal brand that get's you interviews
+
+![YourPersonalBrand](assets/yourbrand.jpg)
 
 Technical and soft skills are incredibly important to get and keep a job or internship, but before you get one, you will have to get the attention of a company or recruiter, so that they give you an opportunity to interview with them.
 
