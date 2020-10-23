@@ -67,11 +67,7 @@ While there are a lot of mixed thoughts about whether to include or not your (pr
 
 ### 2. Your Bio: 
 
-Your CV Bio needs to be unique and captivate the reader. This is your opportunity to grab the attention of the recruiter and draw them into reading the rest of your resume.
-
-It should highlight what makes you stand out from the other people applying for the internship or job and call attention to who you are as a person and as a professional.
-
-Here some examples:
+Your CV Bio needs to be unique and captivate the reader. This is your opportunity to grab the attention of the recruiter and draw them into reading the rest of your resume. It should highlight what makes you stand out from the other people applying for the internship or job and call attention to who you are as a person and as a professional. Here some examples:
 
 **Example 1:** Developer with a BSc in Electrical and Electronics Engineering and a MSc in Information Systems. After 4 years working as a Technical Specialist I had to leave Turkey seeking refugee status. Today I allocate all my energy to building a new future for me and my family by doing what I like the most: coding and solving problems. I'm a responsible and caring person that learns fast, likes to share, and takes work and personal growth seriously.
 
@@ -105,11 +101,7 @@ Responsive Full-stack app developed using the MERN stack that allows users to tr
 
 ### 5. Your education (including HackYourFuture)
 
-The educational section of your resume is still an important aspect, however, you shouldn’t go into too much detail. The more experience you have, the less you need to focus on your education section.
-
-You need to list your university, degree obtained, and dates you attended in your education section. 
-
-As for your HackYourFuture Education, simply add a short description and links to the curriculum. Here some examples:
+The educational section of your resume is still an important aspect, however, you shouldn’t go into too much detail. The more experience you have, the less you need to focus on your education section. You need to list your university, degree obtained, and dates you attended in your education section. As for your HackYourFuture Education, simply add a short description and links to the curriculum. Here some examples:
 
 **HackYourFuture, Web Development | Jan 2020 - Aug 2020 | [Curriculum](https://github.com/HackYourFuture/curriculum)**<br>
 7-month coding bootcamp with modules on HTML, CSS, JavaScript, NodeJS, MySQL and ReactJS.
@@ -119,9 +111,7 @@ A 28-week course designed to cover all aspects of full-stack development includi
 
 ### 6. Your (additional) projects
 
-Companies hiring interns from the HackYourFuture program know that you don’t have years of experience working as a web developer. However, they want to know you work hard, that you are eager to grow, that you have an eye for detail (especially if you want to be a frontend or full stack developer) and that you never stop learning. A way to show just that is by adding the most challenging and beautiful projects you’ve worked on during and after the program. Be sure to provide a link to the deployed version of the project and another link to the source code.
-
-Here some beautiful examples:
+Companies hiring interns from the HackYourFuture program know that you don’t have years of experience working as a web developer. However, they want to know you work hard, that you are eager to grow, that you have an eye for detail (especially if you want to be a frontend or full stack developer) and that you never stop learning. A way to show just that is by adding the most challenging and beautiful projects you’ve worked on during and after the program. Be sure to provide a link to the deployed version of the project and another link to the source code. Here some beautiful examples:
 
 **Weather app | Jan 2020 | [Demo](https://raw.githack.com/Nazeh/weather-app/master/dist/index.html) | [Source](https://github.com/Nazeh/weather-app)**<br>
 Clean, and mobile-friendly web app built using plain JS, Webpack, and Babel. Implemented fetching of Open-weather, and geolocation data. 
@@ -143,9 +133,7 @@ In this case, we do not add native or proficiency to English or Spanish given th
 
 ## 3. The HackYourFuture CV template pack
 
-To make your job easier, we’ve created a set of templates with sections tailored to the needs of a HackYourFuture student.
-
-These templates can be mixed and matched together and you can also play around with style (typography and colors) to achieve a style and format that goes in line with your content and preferences.
+To make your job easier, we’ve created a set of templates with sections tailored to the needs of a HackYourFuture student. These templates can be mixed and matched together and you can also play around with style (typography and colors) to achieve a style and format that goes in line with your content and preferences.
 
 To access the templates [click here](https://docs.google.com/presentation/d/1VGbSrhNKhX3QM7lpbE5Lo_-nbUUXU9Vgpvzy0P_hhEM/copy) and don’t forget to check the following video that explains how to repurpose the templates for your own use:
 
@@ -153,9 +141,7 @@ To access the templates [click here](https://docs.google.com/presentation/d/1VGb
 
 ## 4. Submitting your CV to the HYF team
 
-Once your CV is ready, please submit the link to the HYF team here. 
-
-We will give you feedback (if needed) to be sure you end with a good CV that gets you interviews. However, keep in mind that besides a nice looking CV, you need to continuously work on new projects that reflect your capabilities. This is by far your fastest way to a job!
+Once your CV is ready, please submit the link to the HYF team here. We will give you feedback (if needed) to be sure you end with a good CV that gets you interviews. However, keep in mind that besides a nice looking CV, you need to continuously work on new projects that reflect your capabilities. This is by far your fastest way to a job!
 
 Once you submitted your CV, please be sure to continue to update it in the same file. That way we can assure that every time we share it with a prospective employer, we share your most up to date version.  
 
