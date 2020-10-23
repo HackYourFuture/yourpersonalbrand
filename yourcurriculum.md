@@ -50,7 +50,7 @@ There are seven main sections you need to incorporate in your resume. Each one i
 ![cvsections](assets/cv-sections.jpg)
 
 1. Your photo and contact information
-2. Your bio
+2. Your Bio
 3. Your skills (soft and hard)
 4. Your experience (including your graduation and Fellowship projects)
 5. Your education (including HackYourFuture)
