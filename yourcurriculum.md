@@ -88,7 +88,7 @@ You should only list the technical skills that you’re highly proficient in. Do
 
 HTML, CSS, Javascript, MySQL, Nodejs, Git and Reactjs are the most common ones after HackYourFuture. In some cases you can also add ExpressJS, Elastic Search, AWS or other skills that you have learned during your graduation or fellowship projects.
 
-When it comes to soft skills, be sure to include only those 2, 3 or 4  that you are particularly good at and that you can back up with great examples during your interview. Some of these soft skills could include: Empathy, communication, teamwork, problem solving, grit, patience, open mindedness, accountability, creativity and time management. Read more about these here.
+When it comes to soft skills, be sure to include only those 2, 3 or 4  that you are particularly good at and that you can back up with great examples during your interview. Some of these soft skills could include: Empathy, communication, teamwork, problem solving, grit, patience, open mindedness, accountability, creativity and time management. Read more about these [here](https://hackernoon.com/10-soft-skills-every-developer-needs-66f0cdcfd3f7).
 
 
 ### 4. Your experience (including your graduation and Fellowship projects)
@@ -111,11 +111,11 @@ You need to list your university, degree obtained, and dates you attended in you
 
 As for your HackYourFuture Education, simply add a short description and links to the curriculum. Here some examples:
 
-**HackYourFuture, Web Development | Jan 2020 - Aug 2020 | Curriculum**<br>
+**HackYourFuture, Web Development | Jan 2020 - Aug 2020 | [Curriculum](https://github.com/HackYourFuture/curriculum)**<br>
 7-month coding bootcamp with modules on HTML, CSS, JavaScript, NodeJS, MySQL and ReactJS.
 
 **Web Development at HackYourFuture | Jan 2020 - Aug 2020**<br>
-A 28-week course designed to cover all aspects of full-stack development including HTML, CSS, JavaScript, NodeJS, ExpressJS, MySQL and ReactJS. Check the curriculum here.
+A 28-week course designed to cover all aspects of full-stack development including HTML, CSS, JavaScript, NodeJS, ExpressJS, MySQL and ReactJS. Check the curriculum [here](https://github.com/HackYourFuture/curriculum).
 
 ### 6. Your (additional) projects
 
@@ -123,13 +123,13 @@ Companies hiring interns from the HackYourFuture program know that you don’t h
 
 Here some beautiful examples:
 
-**Weather app | Jan 2020 | Demo | Source**<br>
+**Weather app | Jan 2020 | [Demo](https://raw.githack.com/Nazeh/weather-app/master/dist/index.html) | [Source](https://github.com/Nazeh/weather-app)**<br>
 Clean, and mobile-friendly web app built using plain JS, Webpack, and Babel. Implemented fetching of Open-weather, and geolocation data. 
 
-**Todo app | Jan 2020 | Demo | Source**<br>
+**Todo app | Jan 2020 | [Demo](https://tv2z-app.herokuapp.com/) | [Source](https://github.com/salih18/MERN-Todo-App)**<br>
 Simple (but great looking) to do app built with Reactjs, Nodejs and Expressjs allowing users to register and save their data, tag their activities and more.
 
-**YouTube UI Clone | Jan 2020 | Demo | Source**
+**YouTube UI Clone | Jan 2020 | [Demo](https://nazeh.github.io/youtube_video_player_page/) | [Source](https://github.com/Nazeh/youtube_video_player_page)**
 
 ### 7. Other information including languages and hobbies
 
@@ -147,7 +147,7 @@ To make your job easier, we’ve created a set of templates with sections tailor
 
 These templates can be mixed and matched together and you can also play around with style (typography and colors) to achieve a style and format that goes in line with your content and preferences.
 
-To access the templates click here and don’t forget to check the following video that explains how to repurpose the templates for your own use:
+To access the templates [click here](https://docs.google.com/presentation/d/1VGbSrhNKhX3QM7lpbE5Lo_-nbUUXU9Vgpvzy0P_hhEM/copy) and don’t forget to check the following video that explains how to repurpose the templates for your own use:
 
 **ADD VIDEO**
 
