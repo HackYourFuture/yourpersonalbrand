@@ -57,7 +57,7 @@ There are seven main sections you need to incorporate in your resume. Each one i
 6. Your (additional) projects
 7. Other information including languages and hobbies
 
-Each of these sections should be clearly separated with easy to read headers. Let’s walk through some of these sections so you can better understand what to include:
+Each of these sections should be clearly separated with easy to read headers. Let’s walk through some of these sections so you can better understand what to include.
 
 
 
