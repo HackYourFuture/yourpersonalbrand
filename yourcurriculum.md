@@ -97,10 +97,10 @@ Besides adding the company name, your position and date (assuming that the exper
 
 Be sure to also include your graduation and Fellowship projects in this section (with links to the deployed websites) as they are probably your most web development related experiences! Here some examples:
 
-**HackYourSocial at HackYourFuture | Jan 2019 | Link**
+**HackYourSocial at HackYourFuture | Jan 2019 | Link**<br>
 Created a clean, and mobile-friendly web app using NodeJS, ReactJS, Redux and MongoDB to help travelers connect with each other and exchange tips. Implemented fetching of data through APIs and geolocation, authentication & authorization and client server model.
 
-**TrackIt App, Fellowship | Mar 2020 | Link**
+**TrackIt App, Fellowship | Mar 2020 | Link**<br>
 Responsive Full-stack app developed using the MERN stack that allows users to track their personal assets (such as stocks and cryptocurrencies), financial gains and losses by bringing information from different public APIs and other sources to one central dashboard.
 
 ### 5. Your education (including HackYourFuture)
@@ -111,10 +111,10 @@ You need to list your university, degree obtained, and dates you attended in you
 
 As for your HackYourFuture Education, simply add a short description and links to the curriculum. Here some examples:
 
-**HackYourFuture, Web Development | Jan 2020 - Aug 2020 | Curriculum**
+**HackYourFuture, Web Development | Jan 2020 - Aug 2020 | Curriculum**<br>
 7-month coding bootcamp with modules on HTML, CSS, JavaScript, NodeJS, MySQL and ReactJS.
 
-**Web Development at HackYourFuture | Jan 2020 - Aug 2020**
+**Web Development at HackYourFuture | Jan 2020 - Aug 2020**<br>
 A 28-week course designed to cover all aspects of full-stack development including HTML, CSS, JavaScript, NodeJS, ExpressJS, MySQL and ReactJS. Check the curriculum here.
 
 ### 6. Your (additional) projects
@@ -123,10 +123,10 @@ Companies hiring interns from the HackYourFuture program know that you don’t h
 
 Here some beautiful examples:
 
-**Weather app | Jan 2020 | Demo | Source**
+**Weather app | Jan 2020 | Demo | Source**<br>
 Clean, and mobile-friendly web app built using plain JS, Webpack, and Babel. Implemented fetching of Open-weather, and geolocation data. 
 
-**Todo app | Jan 2020 | Demo | Source**
+**Todo app | Jan 2020 | Demo | Source**<br>
 Simple (but great looking) to do app built with Reactjs, Nodejs and Expressjs allowing users to register and save their data, tag their activities and more.
 
 **YouTube UI Clone | Jan 2020 | Demo | Source**
