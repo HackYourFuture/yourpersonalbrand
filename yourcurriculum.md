@@ -74,11 +74,11 @@ It should highlight what makes you stand out from the other people applying for 
 
 Here some examples:
 
-Example 1: Developer with a BSc in Electrical and Electronics Engineering and a MSc in Information Systems. After 4 years working as a Technical Specialist I had to leave Turkey seeking refugee status. Today I allocate all my energy to building a new future for me and my family by doing what I like the most: coding and solving problems. I'm a responsible and caring person that learns fast, likes to share, and takes work and personal growth seriously.
+**Example 1:** Developer with a BSc in Electrical and Electronics Engineering and a MSc in Information Systems. After 4 years working as a Technical Specialist I had to leave Turkey seeking refugee status. Today I allocate all my energy to building a new future for me and my family by doing what I like the most: coding and solving problems. I'm a responsible and caring person that learns fast, likes to share, and takes work and personal growth seriously.
 
-Example 2: Energetic Full Stack Web Developer ‘in love’ with JavaScript. For me, web development is more than just writing code. Is to communicate and work well with others in a team, to be curious and open to criticism and different approaches, to solve problems and to never stop learning. I'm currently looking for an opportunity to continue doing what I love, in a challenging but friendly environment.
+**Example 2:** Energetic Full Stack Web Developer ‘in love’ with JavaScript. For me, web development is more than just writing code. Is to communicate and work well with others in a team, to be curious and open to criticism and different approaches, to solve problems and to never stop learning. I'm currently looking for an opportunity to continue doing what I love, in a challenging but friendly environment.
 
-Example 3: Avid learner, debate lover, and forever optimist. I like creating products that either have fun and nifty features or solve a genuine problem for people. I love creating products that have both of those things. Above all that, I love collaborating and working on a team! My hobbies include having several craft projects on the go at once, daydreaming about space, and eating snacks.
+**Example 3:** Avid learner, debate lover, and forever optimist. I like creating products that either have fun and nifty features or solve a genuine problem for people. I love creating products that have both of those things. Above all that, I love collaborating and working on a team! My hobbies include having several craft projects on the go at once, daydreaming about space, and eating snacks.
 
  
 ### 3. Your skills 
@@ -98,10 +98,10 @@ Besides adding the company name, your position and date (assuming that the exper
 
 Be sure to also include your graduation and Fellowship projects in this section (with links to the deployed websites) as they are probably your most web development related experiences! Here some examples:
 
-HackYourSocial at HackYourFuture | Jan 2019 | Link
+**HackYourSocial at HackYourFuture | Jan 2019 | Link**
 Created a clean, and mobile-friendly web app using NodeJS, ReactJS, Redux and MongoDB to help travelers connect with each other and exchange tips. Implemented fetching of data through APIs and geolocation, authentication & authorization and client server model.
 
-TrackIt App, Fellowship | Mar 2020 | Link
+**TrackIt App, Fellowship | Mar 2020 | Link**
 Responsive Full-stack app developed using the MERN stack that allows users to track their personal assets (such as stocks and cryptocurrencies), financial gains and losses by bringing information from different public APIs and other sources to one central dashboard.
 
 ### 5. Your education (including HackYourFuture)
@@ -112,10 +112,10 @@ You need to list your university, degree obtained, and dates you attended in you
 
 As for your HackYourFuture Education, simply add a short description and links to the curriculum. Here some examples:
 
-HackYourFuture, Web Development | Jan 2020 - Aug 2020 | Curriculum
+**HackYourFuture, Web Development | Jan 2020 - Aug 2020 | Curriculum**
 7-month coding bootcamp with modules on HTML, CSS, JavaScript, NodeJS, MySQL and ReactJS.
 
-Web Development at HackYourFuture | Jan 2020 - Aug 2020
+**Web Development at HackYourFuture | Jan 2020 - Aug 2020**
 A 28-week course designed to cover all aspects of full-stack development including HTML, CSS, JavaScript, NodeJS, ExpressJS, MySQL and ReactJS. Check the curriculum here.
 
 ### 6. Your (additional) projects
@@ -124,13 +124,13 @@ Companies hiring interns from the HackYourFuture program know that you don’t h
 
 Here some beautiful examples:
 
-Weather app | Jan 2020 | Demo | Source
+**Weather app | Jan 2020 | Demo | Source**
 Clean, and mobile-friendly web app built using plain JS, Webpack, and Babel. Implemented fetching of Open-weather, and geolocation data. 
 
-Todo app | Jan 2020 | Demo | Source
+**Todo app | Jan 2020 | Demo | Source**
 Simple (but great looking) to do app built with Reactjs, Nodejs and Expressjs allowing users to register and save their data, tag their activities and more.
 
-YouTube UI Clone | Jan 2020 | Demo | Source
+**YouTube UI Clone | Jan 2020 | Demo | Source**
 
 ### 7. Other information including languages and hobbies
 
@@ -138,7 +138,7 @@ Give interviewers more information to get to know you better and have something 
 
 When it comes to languages, we suggest you add your native language and english of course, and if you know any other language such as dutch, highlight your level: Intermediate, basic, etc. Just like this:
 
-Languages: English, Spanish, Dutch (intermediate)
+**Languages: English, Spanish, Dutch (intermediate)**
 
 In this case, we do not add native or proficiency to English or Spanish given that in this case Spanish is the applicant’s native language and English is simply expected to be at a working proficiency.
 
@@ -150,7 +150,7 @@ These templates can be mixed and matched together and you can also play around w
 
 To access the templates click here and don’t forget to check the following video that explains how to repurpose the templates for your own use:
 
-ADD VIDEO
+**ADD VIDEO**
 
 ## 4. Submitting your CV to the HYF team
 
@@ -160,11 +160,11 @@ We will give you feedback (if needed) to be sure you end with a good CV that get
 
 Once you submitted your CV, please be sure to continue to update it in the same file. That way we can assure that every time we share it with a prospective employer, we share your most up to date version.  
 
-Remember: If for any reason you decide not to use our template pack, be sure to use templates that are not flexible and that allows for collaboration: If you send the HYF team a PDF it is VERY hard and time consuming for us to provide you with feedback, so we won't do so. Instead, please use google docs or (even better) stick to some of the templates we share with you on this guide! If you have ideas on how to make them better, send a PRs with your thoughts and we might incorporate them on the next release!
+**Remember:** If for any reason you decide not to use our template pack, be sure to use templates that are not flexible and that allows for collaboration: If you send the HYF team a PDF it is VERY hard and time consuming for us to provide you with feedback, so we won't do so. Instead, please use google docs or (even better) stick to some of the templates we share with you on this guide! If you have ideas on how to make them better, send a PRs with your thoughts and we might incorporate them on the next release!
 
 ## 5. Bonus: The Cover Letter (Coming soon!)
 
-> Done with your CV? Time to polish on your LinkedIn Profile!
+**8Done with your CV? Time to polish on your LinkedIn Profile!***
 
 
 
