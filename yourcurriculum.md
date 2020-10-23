@@ -11,8 +11,6 @@ Writing the perfect resume is less about showing how great you are and more abou
 5. Submitting your CV to the HYF team
 6. Bonus: The Cover Letter (Coming soon!)
 
-<hr> 
-
 ## 1. The Do’s & Don’ts of Resume Writing
 
 You’ve likely heard conflicting statements of what you should and should not include in a resume. We’re clearing through the clutter with a list of do’s and don’ts to help you write a resume that will get you an interview, if not hired. 
@@ -41,7 +39,22 @@ Keep in mind that the HYF team is always available to help you improve your CV. 
 
 **- Use templates that are not flexible:** If you send the HYF team a PDF it is VERY hard and time consuming for us to provide you with feedback. Instead, please use google docs or (even better) stick to some of the great looking templates we share with you on this guide!
 
-<hr> 
+## 2. The Structure of a HYF Graduate’s CV:##
+
+While there are no exact ways of doing a resume, there are some best practices we’ve seen have worked well for our graduates. Your resume needs to be professional looking and well-organized. It should also link to you other components of your personal brand such as your GitHub and LinkedIn. 
+
+There are seven main sections you need to incorporate in your resume. Each one is critical and serves its own purpose when you're applying for an internship:
+
+1-Your photo and contact information
+2-Your bio
+3-Your skills (soft and hard)
+4-Your experience (including your graduation and Fellowship projects)
+5-Your education (including HackYourFuture)
+6-Your (additional) projects
+7-Other information including languages and hobbies
+
+Each of these sections should be clearly separated with easy to read headers. Let’s walk through some of these sections so you can better understand what to include:
+
 
 
 
