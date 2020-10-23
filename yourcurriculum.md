@@ -9,7 +9,7 @@ Writing the perfect resume is less about showing how great you are and more abou
 3. Additional reading material
 4. The HackYourFuture CV template pack
 5. Submitting your CV to the HYF team
-6. Bonus: The Cover Letter (Coming soon!)
+6. Bonus: The Cover Letter (Coming soon)
 
 ## 1. The Do’s & Don’ts of Resume Writing
 
