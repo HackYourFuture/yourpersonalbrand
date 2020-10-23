@@ -6,11 +6,11 @@ Securing an interview requires a polished resume that highlights your work exper
 
 Writing the perfect resume is less about showing how great you are and more about showing the hiring person why you’re the ideal person to help them reach their goals. The key to doing this is being relevant and to the point. In this guide you will find a few important resume writing tips and resources to help you get started:
 
-[1. The Do’s & Don’ts of Resume Writing](https://github.com/HackYourFuture/yourpersonalbrand/blob/main/yourcurriculum.md#1-the-dos--donts-of-resume-writing)
-[2. The Structure of a HYF Graduate’s CV](https://github.com/HackYourFuture/yourpersonalbrand/blob/main/yourcurriculum.md#2-the-structure-of-a-hyf-graduates-cv)
-[3. The HackYourFuture CV template pack](https://github.com/HackYourFuture/yourpersonalbrand/blob/main/yourcurriculum.md#3-the-hackyourfuture-cv-template-pack)
-[4. Submitting your CV to the HYF team](https://github.com/HackYourFuture/yourpersonalbrand/blob/main/yourcurriculum.md#4-submitting-your-cv-to-the-hyf-team)
-[5. Bonus: The Cover Letter (Coming soon!)](https://github.com/HackYourFuture/yourpersonalbrand/blob/main/yourcurriculum.md#5-bonus-the-cover-letter-coming-soon)
+[1. The Do’s & Don’ts of Resume Writing](https://github.com/HackYourFuture/yourpersonalbrand/blob/main/yourcurriculum.md#1-the-dos--donts-of-resume-writing)<br>
+[2. The Structure of a HYF Graduate’s CV](https://github.com/HackYourFuture/yourpersonalbrand/blob/main/yourcurriculum.md#2-the-structure-of-a-hyf-graduates-cv)<br>
+[3. The HackYourFuture CV template pack](https://github.com/HackYourFuture/yourpersonalbrand/blob/main/yourcurriculum.md#3-the-hackyourfuture-cv-template-pack)<br>
+[4. Submitting your CV to the HYF team](https://github.com/HackYourFuture/yourpersonalbrand/blob/main/yourcurriculum.md#4-submitting-your-cv-to-the-hyf-team)<br>
+[5. Bonus: The Cover Letter (Coming soon!)](https://github.com/HackYourFuture/yourpersonalbrand/blob/main/yourcurriculum.md#5-bonus-the-cover-letter-coming-soon)<br>
 
 ## 1. The Do’s & Don’ts of Resume Writing
 
@@ -163,7 +163,7 @@ Once you submitted your CV, please be sure to continue to update it in the same 
 
 ## 5. Bonus: The Cover Letter (Coming soon!)
 
-**8Done with your CV? Time to polish on your LinkedIn Profile!***
+***Done with your CV?*** Time to polish on your LinkedIn Profile!
 
 
 
