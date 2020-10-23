@@ -1,3 +1,5 @@
+![YourCurriculum](assets/cv.jpg)
+
 # Your Curriculum (or resume)
 
 Securing an interview requires a polished resume that highlights your work experience, qualifications, and technical skills. Your resume needs to effectively communicate that you have the skills and experience required for the position. As a web developer, you aren’t expected to be a graphic design expert, but a well designed resume can make a big difference. Most recruiters only spend a few seconds on their initial resume scan.
