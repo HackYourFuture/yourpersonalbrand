@@ -47,7 +47,7 @@ While there are no exact ways of doing a resume, there are some best practices w
 
 There are seven main sections you need to incorporate in your resume. Each one is critical and serves its own purpose when you're applying for an internship:
 
-![cvsections](assets/cvsections.jpg)
+![cvsections](assets/cv-sections.jpg)
 
 1. Your photo and contact information
 2. Your bio
