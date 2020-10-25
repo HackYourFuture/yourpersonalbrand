@@ -21,4 +21,4 @@ Crafting a good personal brand takes time, effort and self reflection. The more 
 - [10 Soft Skills Every Developer Needs](https://hackernoon.com/10-soft-skills-every-developer-needs-66f0cdcfd3f7)
 - [How to Write a Short Professional Bio](https://business.tutsplus.com/tutorials/how-to-write-a-short-bio--cms-30643)
 - [Web Developer Resume Examples](https://standardresume.co/examples/web-developer)
-- [Google Slide Templates for HYF students](https://docs.google.com/presentation/d/1VGbSrhNKhX3QM7lpbE5Lo_-nbUUXU9Vgpvzy0P_hhEM/copy)
+- [Google Slides Templates for HYF students](https://docs.google.com/presentation/d/1VGbSrhNKhX3QM7lpbE5Lo_-nbUUXU9Vgpvzy0P_hhEM/copy)
