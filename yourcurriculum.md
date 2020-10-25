@@ -121,6 +121,8 @@ Simple (but great looking) to do app built with Reactjs, Nodejs and Expressjs al
 
 **YouTube UI Clone | Jan 2020 | [Demo](https://nazeh.github.io/youtube_video_player_page/) | [Source](https://github.com/Nazeh/youtube_video_player_page)**
 
+***Be sure that the quality of the projects shared in this section are representative of your skills as a developer! Recruiters will judge your work, so be sure there projects show the best you can do!***
+
 ### 7. Other information including languages and hobbies
 
 Give interviewers more information to get to know you better and have something else to talk about during the interview.
