@@ -121,7 +121,7 @@ Simple (but great looking) to do app built with Reactjs, Nodejs and Expressjs al
 
 **YouTube UI Clone | Jan 2020 | [Demo](https://nazeh.github.io/youtube_video_player_page/) | [Source](https://github.com/Nazeh/youtube_video_player_page)**
 
-***Be sure that the quality of the projects shared in this section are representative of your skills as a developer! Recruiters will judge your work, so be sure there projects show the best you can do!***
+***(!)Be sure that the quality of the projects shared in this section are representative of your skills as a developer! Recruiters will judge your work, so be sure there projects show the best you can do! Needless to say, be also sure that each project follows the best practices on GitHub, like including a readme file, etc***
 
 ### 7. Other information including languages and hobbies
 
