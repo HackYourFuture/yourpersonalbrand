@@ -10,7 +10,9 @@ In the image above, the person on the left has clearly a LOT more experience tha
 - How much effort you put into coding (and how often you commit)
 - How you interact with other devs (i.e with your teachers in your HYF assignments)
 
-In this guide we will share with you 
+So looking at the image above again, who would you hire? I'm sure you would hire the person on the left with no doubt!
+
+In this guide we will share with you: 
 1. Five tips on how to set up your GitHub profile to showcase your best work to potential recruiters
 2. The most important GitHub best practices for you to always keep top of mind.
 3. Inspiring GitHub profiles to get some ideas to pump your own!
