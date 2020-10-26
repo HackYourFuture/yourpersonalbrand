@@ -15,7 +15,7 @@ In this guide we will share with you
 
 ## 1. Five tips on how to set up your GitHub profile 
 
-1. Start by building a great looking homepage
+### 1. Start by building a great looking homepage
 
 Your GitHub’s profile homepage is one of the first things recruiters will look at when they are reviewing your CV. Because of this, your profile needs to look clean and be a good representation of who you are as a developer. Be sure to have a professional picture, followed by a short bio, and links to any other relevant websites that showcase what you do: your portfolio (if you have one and it looks great), your StackOverflow and CodePen links, etc.
 
@@ -28,15 +28,15 @@ Not less important, build a Stunning README page and be sure recruiters can easi
 - [Awesome Profile README Templates](https://github.com/kautukkundan/Awesome-Profile-README-templates)
 
 
-2. Remove zero contributed forks
+### 2. Remove zero contributed forks
 One thing many developers do is forking public repositories and then sending pull requests to the original repo (like you do with your HYF homework or Repo). What tends to happen with this approach is that developers have profiles containing hundreds of forked repositories with zero contributions. This can make you look inconsistent and all over the place. If you are applying to jobs it is better to clean up your profile and only leave the repo’s to which you’ve made contributions that ended up in the root repositories.
 
-3. Handpick your pinned repositories to showcase your best work
+### 3. Handpick your pinned repositories to showcase your best work
 The pinned repositories that appear at the top of your profile should showcase repositories that you want to highlight to the recruiter, which should be relevant and show work that has been done. Pick and pin your top three-six repositories that you want recruiters to see first. [Here](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile) you can find the instructions on how to do that. 
 
 Needless to say, be sure your pinned repos are referential of your top skills and be sure they are properly groomed...More on that next!
 
-4. Groom your showcased repositories
+### 4. Groom your showcased repositories
 
 Once you’ve selected a few repositories to showcase, make sure they’re publicly accessible and not locked under a password. All projects should have a README including:
 
@@ -50,7 +50,7 @@ Once you’ve selected a few repositories to showcase, make sure they’re publi
 - The online demo: Try, by all means, to ensure running a demo version of your project. Like some may say: “A demo is worth a thousand words”. Be sure to also include a username and password so that the visitor/recruiter doesn’t need to register to test your work. For this you can also use [GitHub pages](https://pages.github.com/).
 - Explain the filing system: Be sure to use clear names that explicitly state the contents of each folder to improve comprehension and productivity. 
 
-5. Be sure your code is clean, commented, and well-organized 
+### 5. Be sure your code is clean, commented, and well-organized 
 
 It’s always good practice to review the code in your starred or pinned repos and be sure people other than you (with and without technical knowledge) can get a good idea of your potential and capabilities.
 
