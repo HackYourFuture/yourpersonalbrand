@@ -1,6 +1,6 @@
 # Your GitHub Profile
 
-![YourGitHubProfile](assets/hyfgh.jpg)
+![YourGitHubProfile](assets/hyfgh2.jpg)
 
 Your GitHub profile tells people (specially recruiters) the story of your work through the repositories you're interested in, the contributions you've made, and the conversations you've had. While designers and artists use a creative portfolio to showcase past work and sell themselves, GitHub profiles are portfolios for programmers. Besides showing your actual work, your profile gives insights into:
 
