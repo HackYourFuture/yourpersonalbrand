@@ -2,7 +2,9 @@
 
 ![YourGitHubProfile](assets/hyfgh2.jpg)
 
-Your GitHub profile tells people (specially recruiters) the story of your work through the repositories you're interested in, the contributions you've made, and the conversations you've had. While designers and artists use a creative portfolio to showcase past work and sell themselves, GitHub profiles are portfolios for programmers. Besides showing your actual work, your profile gives insights into:
+Your GitHub profile tells people (including recruiters) the story of your work through the repositories you're interested in, the contributions you've made, and the conversations you've had. While designers and artists use a creative portfolio to showcase past work and sell themselves, GitHub profiles are portfolios for programmers. 
+
+In the image above, the person on the left has clearly a LOT more experience than the one on the right: He organises his code better, his repos are well documented and include visuals...In short, your GitHub profile says a lot about you. Besides showing your actual code, your profile gives insights into:
 
 - How you work and collaborate
 - How much effort you put into coding (and how often you commit)
