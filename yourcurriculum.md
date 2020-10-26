@@ -151,7 +151,7 @@ Once you submitted your CV, please be sure to continue to update it in the same 
 
 ## 5. Bonus: The Cover Letter (Coming soon!)
 
-***Done with your CV?*** Time to [polish on your GitHub Profile!](../yourgithub.md)
+***Done with your CV?*** Time to [polish on your GitHub Profile!](yourgithub.md)
 
 
 
