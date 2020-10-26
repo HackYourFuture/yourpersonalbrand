@@ -8,7 +8,7 @@ At HackYourFuture we help our graduates connect with partner companies and other
 
 **Your personal brand is usually comprised of:**
 - [Your Curriculum](yourcurriculum.md)
-- Your GitHub Profile(yourgithub.md)
+- [Your GitHub Profile](yourgithub.md)
 - Your LinkedIn Profile (Coming soon!)
 - Your Online Portfolio (Coming soon!)
 
