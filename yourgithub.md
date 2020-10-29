@@ -79,3 +79,5 @@ Here is a selection of the GitHub profiles we highly recommend as they have extr
 - [Paul Irish](https://github.com/paulirish)
 - [Evan You](https://github.com/yyx990803)
 - [Jake Wharton](https://github.com/JakeWharton)
+
+***Done with your GitHub Profile?*** Time to [work on your LinkedIn one!](yourlinkedin.md)
