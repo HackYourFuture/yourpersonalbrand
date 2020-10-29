@@ -23,4 +23,4 @@ Crafting a good personal brand takes time, effort and self reflection. The more 
 - [Web Developer Resume Examples](https://standardresume.co/examples/web-developer)
 - [Google Slides Templates for HYF students](https://docs.google.com/presentation/d/1VGbSrhNKhX3QM7lpbE5Lo_-nbUUXU9Vgpvzy0P_hhEM/copy)
 - [Basic writing and formatting syntax for GitHub](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
-
+- [Create a great LinkedIn profile](https://www.linkedin.com/learning/learning-linkedin-3)
