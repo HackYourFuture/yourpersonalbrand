@@ -57,6 +57,6 @@ Be sure to connect with your mentors, colleagues and staff at HackYourFuture. Yo
 
 If you want to dig even deeper into how to create a great LinkedIn profile, watch [this course](https://www.linkedin.com/learning/learning-linkedin-3) on LinkedIn Learning!
 
-***Now that you are finished with your CV, is a good time to start preparing for interviews! Check the [Interview Preparation Repo for HYF Graduates!](https://github.com/HackYourFuture/interviewpreparation)
+***Now that you are finished with your CV, is a good time to start preparing for interviews! Check the [Interview Preparation Repo for HYF Graduates!](https://github.com/HackYourFuture/interviewpreparation)***
 
 
