@@ -147,7 +147,7 @@ Once your CV is ready, set the editing rights in Google Slides to "Anyone with t
 
 ***IMPORTANT:*** Once you submitted your CV, please be sure to ***continue to update it in the same file*** with new projects and experiences. That way we can be sure that every time we share it with a prospective employer, we share the most up to date version of your CV.
 
-***EVEN MORE IMPORTANT!:*** During and after HackYourFuture, it is crucial that you keep your client (or case) manager at the Gemeente informed with your progress and what you are up to. Use this message as a reminder to do so if you are not currently in touch with him/her. Also know that the HYF team is always available to connect with your client manager if necessary. If so, just reach out to us on Slack!
+***EVEN MORE IMPORTANT:*** During and after HackYourFuture, it is crucial that you keep your client (or case) manager at the Gemeente informed with your progress and what you are up to. Use this message as a reminder to do so if you are not currently in touch with him/her. Also know that the HYF team is always available to connect with your client manager if necessary. If so, just reach out to us on Slack!
 
 ## 5. Bonus: The Cover Letter (Coming soon!)
 
