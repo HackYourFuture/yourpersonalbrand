@@ -57,6 +57,9 @@ Once you’ve selected a few repositories to showcase, make sure they’re publi
 - [The Weather App :cloud:](https://github.com/Nazeh/weather-app)
 - [To-do App by Salih :heavy_check_mark:](https://github.com/salih18/MERN-Todo-App)
 
+****Pro tip:**** While you can't upload videos to a Github Readme to show how your app looks, you can upload Gif images, so you can make a short video of how your app looks, convert it into a gif, and add it to your project's readme. Here a cool example:
+
+
 ### 5. Be sure your code is clean, commented, and well-organized 
 
 It’s always good practice to review the code in your starred or pinned repos and be sure people other than you (with and without technical knowledge) can get a good idea of your potential and capabilities.
