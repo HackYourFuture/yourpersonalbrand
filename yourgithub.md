@@ -44,7 +44,7 @@ Needless to say, be sure your pinned repos are referential of your top skills an
 Once you’ve selected a few repositories to showcase, make sure they’re publicly accessible and not locked under a password. All projects should have a README including:
 
 **- A description:** One that makes it easy to understand for someone who has only a minute. <br>
-**- The outcome:** Illustrate what that code is supposed to produce. Show screenshots of your app. <br>
+**- The outcome:** Illustrate what that code is supposed to produce. Show screenshots of your app! <br>
 **- The Stack:** List all the core relevant frameworks and libraries that make the project work. This gives technical recruiters, who may not be familiar with every single framework, a glimpse of what’s important right off the bat.<br>
 **- The vision:** Clearly illustrate where this project is heading.<br>
 **- The version:** Indicate where you are with the project. For example, is it complete or work in progress? If work in progress, state clearly what is done and what is pending or what’s not working. I like to put a disclaimer in case people want to use work done in a production environment. It’s perfectly fine to have stuff that does not work if it’s been highlighted.<br>
@@ -52,6 +52,10 @@ Once you’ve selected a few repositories to showcase, make sure they’re publi
 **- Running instructions:** You should have a clear explanation of how a user can run the application. Activities such as npm run, docker run or whatever is used by your framework.<br>
 **- The online demo:** Try, by all means, to ensure running a demo version of your project. Like some may say: “A demo is worth a thousand words”. Be sure to also include a username and password so that the visitor/recruiter doesn’t need to register to test your work. For this you can also use [GitHub pages](https://pages.github.com/).<br>
 **- Explain the filing system:** Be sure to use clear names that explicitly state the contents of each folder to improve comprehension and productivity.<br>
+
+#### Some Great Examples:
+- [The Weather App :cloud:](https://github.com/Nazeh/weather-app)
+- [To-do App by Salih :heavy_check_mark:](https://github.com/salih18/MERN-Todo-App)
 
 ### 5. Be sure your code is clean, commented, and well-organized 
 
