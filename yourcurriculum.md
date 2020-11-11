@@ -143,7 +143,11 @@ To access the templates [click here](https://docs.google.com/presentation/d/1VGb
 
 ## 4. Submitting your CV to the HYF team
 
-Once your CV is ready, set the editing rights in Google Slides to "Anyone with the link", and submit the URL to the HYF team [here](https://hackyourfuture.typeform.com/to/nbktd8). We will then give you feedback (if needed) to be sure you end with a good CV that gets you interviews. 
+Once your CV is ready, set the editing rights in Google Slides to "Anyone with the link":
+
+![permission](assets/permission.gif)
+
+And then submit the URL to the HYF team by completing [this form](https://hackyourfuture.typeform.com/to/nbktd8). We will then give you feedback (if needed) to be sure you end with a good CV that gets you interviews. 
 
 ***IMPORTANT:*** Once you submitted your CV, please be sure to ***continue to update it in the same file*** with new projects and experiences. That way we can be sure that every time we share it with a prospective employer, we share the most up to date version of your CV.
 
