@@ -143,11 +143,11 @@ To access the templates [click here](https://docs.google.com/presentation/d/1VGb
 
 ## 4. Submitting your CV to the HYF team
 
-Once your CV is ready, please submit the link to the HYF team here. We will give you feedback (if needed) to be sure you end with a good CV that gets you interviews. However, keep in mind that besides a nice looking CV, you need to continuously work on new projects that reflect your capabilities. This is by far your fastest way to a job!
+Once your CV is ready, set the editing rights in Google Slides to "Anyone with the link", and submit the URL to the HYF team [here](https://hackyourfuture.typeform.com/to/nbktd8). We will then give you feedback (if needed) to be sure you end with a good CV that gets you interviews. 
 
-Once you submitted your CV, please be sure to continue to update it in the same file. That way we can assure that every time we share it with a prospective employer, we share your most up to date version.  
+***IMPORTANT:*** Once you submitted your CV, please be sure to ***continue to update it in the same file*** with new projects and experiences. That way we can be sure that every time we share it with a prospective employer, we share the most up to date version of your CV.
 
-**Remember:** If for any reason you decide not to use our template pack, be sure to use templates that are not flexible and that allows for collaboration: If you send the HYF team a PDF it is VERY hard and time consuming for us to provide you with feedback, so we won't do so. Instead, please use google docs or (even better) stick to some of the templates we share with you on this guide! If you have ideas on how to make them better, send a PRs with your thoughts and we might incorporate them on the next release!
+***EVEN MORE IMPORTANT!:*** During and after HackYourFuture, it is crucial that you keep your client (or case) manager at the Gemeente informed with your progress and what you are up to. Use this message as a reminder to do so if you are not currently in touch with him/her. Also know that the HYF team is always available to connect with your client manager if necessary. If so, just reach out to us on Slack!
 
 ## 5. Bonus: The Cover Letter (Coming soon!)
 
