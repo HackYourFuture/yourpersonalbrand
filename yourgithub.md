@@ -59,7 +59,7 @@ Once you’ve selected a few repositories to showcase, make sure they’re publi
 
 ****Pro tip:**** While you can't upload videos to a Github Readme to show how your app looks, you can upload Gif images, so you can make a short video of how your app looks, [convert it into a gif](https://ezgif.com/video-to-gif), and add it to your project's readme. Here an example from Salih's Weather App:
 
-![ToDoAppgif](assets/todo.gif)
+![ToDoAppgif](assets/todo2.gif)
 
 ### 5. Be sure your code is clean, commented, and well-organized 
 
