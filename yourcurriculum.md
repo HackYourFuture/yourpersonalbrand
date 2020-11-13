@@ -140,6 +140,8 @@ To make your job easier, we’ve created a set of templates with sections tailor
 To access the templates [click here](https://docs.google.com/presentation/d/1VGbSrhNKhX3QM7lpbE5Lo_-nbUUXU9Vgpvzy0P_hhEM/copy) and don’t forget to check the following video that explains how to repurpose the templates for your own use:
 
 ![VideoTutorial](assets/video.jpg)
+<a href="http://google.com.au/" rel="VideoTutorial">![Foo](assets/video.jpg)</a>
+
 
 ## 4. Submitting your CV to the HYF team
 
