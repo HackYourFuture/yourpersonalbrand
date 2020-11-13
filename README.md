@@ -7,7 +7,7 @@ Technical and soft skills are incredibly important to get and keep a job or inte
 Together with our graduates we approach companies for internship opportunities. However, for you to be invited for an interview, companies need to be interested in your profile. For that, it is important that you have a professional personal brand.
 
 **Your personal brand is usually comprised of:**
-- [Your Curriculum](yourcurriculum.md)
+- [Your CV or Resume](yourcurriculum.md)
 - [Your GitHub Profile](yourgithub.md)
 - [Your LinkedIn Profile](yourlinkedin.md)
 - Your Online Portfolio (Coming soon!)
