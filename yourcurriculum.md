@@ -137,8 +137,8 @@ In this case, we do not add native or proficiency to English or Spanish given th
 
 To make your job easier, we invite you to use the EnhanceCV template builder. These templates can be mixed and matched together and you can also play around with style (typography and colors) to achieve a style and format that goes in line with your content and preferences. You will receive an invitation to access the templates from Alex EnhanceCV. 
 
-![cvsections](![Screenshot 2023-06-28 at 15 30 20](https://github.com/HackYourFuture/yourpersonalbrand/assets/113513079/537913a9-1bcb-4149-9da1-e6aaff9d881c)
-)
+(![Screenshot 2023-06-28 at 15 30 20](https://github.com/HackYourFuture/yourpersonalbrand/assets/113513079/537913a9-1bcb-4149-9da1-e6aaff9d881c)
+
 
 ## 4. Submitting your CV to the HYF team
 
