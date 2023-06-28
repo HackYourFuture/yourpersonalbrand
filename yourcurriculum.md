@@ -135,24 +135,15 @@ In this case, we do not add native or proficiency to English or Spanish given th
 
 ## 3. The HackYourFuture CV template pack
 
-To make your job easier, we’ve created a set of templates with sections tailored to the needs of a HackYourFuture student. These templates can be mixed and matched together and you can also play around with style (typography and colors) to achieve a style and format that goes in line with your content and preferences.
-
-To access the templates [click here](https://docs.google.com/presentation/d/1VGbSrhNKhX3QM7lpbE5Lo_-nbUUXU9Vgpvzy0P_hhEM/copy) and don’t forget to check the following video that explains how to repurpose the templates for your own use:
-
-<a href="https://www.youtube.com/watch?v=DE28v--Zh58&ab_channel=FedericoFusco" rel="VideoTutorial">![Video](assets/video.jpg)</a>
-[Link to Video tutorial](https://www.youtube.com/watch?v=DE28v--Zh58&ab_channel=FedericoFusco)
+To make your job easier, we invite you to use the EnhanceCV template builder. These templates can be mixed and matched together and you can also play around with style (typography and colors) to achieve a style and format that goes in line with your content and preferences. You will receive an invitation to access the templates from Alex EnhanceCV. 
 
 ## 4. Submitting your CV to the HYF team
 
-Once your CV is ready, set the editing rights in Google Slides to "Anyone with the link":
+Once your CV is ready, submit the URL to the HYF team by completing [this form](https://hackyourfuture.typeform.com/to/nbktd8). We will then give you feedback (if needed) to be sure you end up with a good CV that gets you interviews. 
 
-![permission](assets/permission.gif)
+***IMPORTANT:*** Once you submitted your CV, please be sure to ***continue to update it*** with new projects and experiences. That way, we can be sure that every time we share it with a prospective employer, we share the most up-to-date version of your CV.
 
-And then submit the URL to the HYF team by completing [this form](https://hackyourfuture.typeform.com/to/nbktd8). We will then give you feedback (if needed) to be sure you end with a good CV that gets you interviews. 
-
-***IMPORTANT:*** Once you submitted your CV, please be sure to ***continue to update it in the same file*** with new projects and experiences. That way we can be sure that every time we share it with a prospective employer, we share the most up to date version of your CV.
-
-***EVEN MORE IMPORTANT:*** During and after HackYourFuture, it is crucial that you keep your client (or case) manager at the Gemeente informed with your progress and what you are up to. Use this message as a reminder to do so if you are not currently in touch with him/her. Also know that the HYF team is always available to connect with your client manager if necessary. If so, just reach out to us on Slack!
+***EVEN MORE IMPORTANT:*** During and after HackYourFuture, it is crucial that you keep your client (or case) manager at the Gemeente informed with your progress and what you are up to. Use this message as a reminder to do so if you are not currently in touch with them. Also know that the HYF team is always available to connect with your client manager if necessary, just reach out to us on Slack!
 
 ## 5. Bonus: The Cover Letter (Coming soon!)
 
