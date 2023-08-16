@@ -32,7 +32,7 @@ Not less important, build a Stunning README page and be sure recruiters can easi
 
 
 ### 2. Remove zero contributed forks
-One thing many developers do is forking public repositories and then sending pull requests to the original repo (like you do with your HYF homework or Repo). What tends to happen with this approach is that developers have profiles containing hundreds of forked repositories with zero contributions. This can make you look inconsistent and all over the place. If you are applying to jobs it is better to clean up your profile and only leave the repo’s to which you’ve made contributions that ended up in the root repositories.
+One thing many developers do is forking public repositories and then sending pull requests to the original repo (like you do with your HYF assignments or Repo). What tends to happen with this approach is that developers have profiles containing hundreds of forked repositories with zero contributions. This can make you look inconsistent and all over the place. If you are applying to jobs it is better to clean up your profile and only leave the repo’s to which you’ve made contributions that ended up in the root repositories.
 
 ### 3. Handpick your pinned repositories to showcase your best work
 The pinned repositories that appear at the top of your profile should showcase repositories that you want to highlight to the recruiter, which should be relevant and show work that has been done. Pick and pin your top three-six repositories that you want recruiters to see first. [Here](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile) you can find the instructions on how to do that. 
